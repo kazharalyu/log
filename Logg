@@ -16,4 +16,4 @@ git clone https://github.com/kazharalyu/test
 else
    echo "Password False, Contact idyotteno@gmail.com"
 #else if false
-then
+fi
