@@ -10,7 +10,10 @@ if [ $pas = Guntur2@ ]
 then
     echo " Password True, Enjoy"
 git clone https://github.com/kazharalyu/test
-
+cd test
+ls
+sleep 1
+bash test
 # then jika benar
 
 else
