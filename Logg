@@ -1,0 +1,19 @@
+#bin/sh
+
+figlet LOGIN TOOLS KAZHAR
+echo "=================="
+echo "Enter The Password"
+echo "=================="
+echo
+read -p "Enter The Password: "Pas
+if [ $pas = Guntur2@ ]
+then
+    echo " Password True, Enjoy"
+git clone https://github.com/kazharalyu/test
+
+# then jika benar
+
+else
+   echo "Password False, Contact idyotteno@gmail.com"
+#else if false
+then
