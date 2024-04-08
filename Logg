@@ -5,7 +5,7 @@ echo "=================="
 echo "Enter The Password"
 echo "=================="
 echo
-read -p "Enter The Password: "Pas
+read -p "Enter The Password: " Pas
 if [ $pas = Guntur2@ ]
 then
     echo " Password True, Enjoy"
